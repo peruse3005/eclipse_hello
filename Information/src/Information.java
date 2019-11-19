@@ -5,6 +5,7 @@ public class Information {
 		System.out.println("√÷¿Á»∆");
 		System.out.println("20183287");
 		System.out.println("ComputerSW");
+		System.out.println("WonKwang Univ");
 	}
 
 }
